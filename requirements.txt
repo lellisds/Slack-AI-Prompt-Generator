@@ -1,0 +1,6 @@
+flask
+openai
+requests
+gspread
+oauth2client
+python-dotenv
